@@ -7,6 +7,8 @@ GitBash
 
 GitHub
 
+## Comandos
+
 Comandos de Configuracion
 
 Comandos Básicos de Repositorio
