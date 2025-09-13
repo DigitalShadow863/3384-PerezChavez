@@ -1,9 +1,9 @@
 # Control de versiones
 ### GitBash 
-- Git Bash es una aplicación que permite usar Git desde una línea de comandos en Windows. Proporciona un entorno similar a la terminal de Linux, donde se pueden ejecutar los comandos de Git (como git init, git clone, git add, git commit, git push) y administrar repositorios de forma sencilla.
+Git Bash es una aplicación que permite usar Git desde una línea de comandos en Windows. Proporciona un entorno similar a la terminal de Linux, donde se pueden ejecutar los comandos de Git (como git init, git clone, git add, git commit, git push) y administrar repositorios de forma sencilla.
 
 ### GitHub
-- GitHub es una plataforma en línea que permite almacenar, compartir y colaborar en proyectos que usan Git. Funciona como una nube para los repositorios, donde varios usuarios pueden trabajar en el mismo código, revisar cambios y contribuir desde cualquier lugar.
+GitHub es una plataforma en línea que permite almacenar, compartir y colaborar en proyectos que usan Git. Funciona como una nube para los repositorios, donde varios usuarios pueden trabajar en el mismo código, revisar cambios y contribuir desde cualquier lugar.
 
 ## Comandos
 
