@@ -31,6 +31,8 @@ Ejemplos de algoritmos practicados en clase usando C#, donde se adapta usando Py
 - Estructuras Condicionales Repetitivas (For, While, Do While)
 
 ## Arreglos
+- Arrays Unidimensionales (Vectores)
 
+- Arrays Bidimensionales (Matrices)
 
 ®Derechos Reservados 
