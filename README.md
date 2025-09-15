@@ -18,6 +18,17 @@ Ejemplos de algoritmos practicados en clase usando C#, donde se adapta usando Py
 - Comandos de Información
 ## Estructuras de control Basicas
 
+- Estructuras Secuenciales
+
+- Estructuras Condicionales Simpleas
+
+- Estructuras Condicionales Dobles
+
+- Estructuras Condicionales Multiples
+
+- Estructuras Condicionales Anidadas
+
+- Estructuras Condicionales Repetitivas (For, While, Do While)
 
 ## Arreglos
 
