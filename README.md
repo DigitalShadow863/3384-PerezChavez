@@ -20,7 +20,7 @@ Ejemplos de algoritmos practicados en clase usando C#, donde se adapta usando Py
 
 - Estructuras Secuenciales
 
-- Estructuras Condicionales Simpleas
+- Estructuras Condicionales Simples
 
 - Estructuras Condicionales Dobles
 
