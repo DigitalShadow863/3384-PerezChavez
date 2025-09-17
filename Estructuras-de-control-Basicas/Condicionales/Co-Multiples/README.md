@@ -4,10 +4,10 @@
 
 ## Explicacion de los ejemplos
 
-### Ejemplo 1: Calificación de un estudiante
+### Ejemplo 1: Días de la semana
 
-- El programa compara la nota con varios rangos y muestra un mensaje según corresponda. Solo una condición se cumple y se ejecuta.
+- Según el valor de dia, se ejecuta solo el caso que corresponde. Si no coincide con ninguno, se ejecuta default.
 
-### Ejemplo 2: Identificar el día de la semana
+### Ejemplo 2: Menú de opciones
 
-- Dependiendo del valor del número, se imprime el día de la semana correspondiente; si no coincide con ninguno, muestra “Otro día”.
+- El programa compara el valor de opcion con los distintos case. Solo ejecuta la instrucción del caso que coincida. Caso contrario, se invalida la opcion.
