@@ -14,5 +14,5 @@
 ## Estructuras Condicionales Anidadas:
 - Este tipo de algoritmos utilizan decisiones dentro de otras decisiones, es decir, una condición puede llevar a evaluar otra, permitiendo resolver situaciones más complejas.
 
-## Estructuras Condicionales Repetitivas:
+## Estructuras Repetitivas:
 - Este tipo de algoritmos permiten ejecutar una acción o conjunto de acciones varias veces, mientras se cumpla una condición o hasta que deje de cumplirse.
