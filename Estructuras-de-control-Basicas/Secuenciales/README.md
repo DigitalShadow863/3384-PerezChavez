@@ -10,7 +10,7 @@
 
 - El programa solicita la base y la altura de un triángulo, calcula su área aplicando la fórmula (base * altura) / 2 y presenta el resultado al usuario.
 
-# Phyton
+# Python
 
 ### Ejemplo 1: Área de un rectángulo
 
